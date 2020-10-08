@@ -1,0 +1,26 @@
+{
+  "name": "photocaption",
+  "version": "0.1.1",
+  "description": "NuxtJs photo caption gallery component",
+  "main": "PhotoCaption.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thrbttl/photocaption.git"
+  },
+  "keywords": [
+    "js",
+    "nuxt",
+    "vue",
+    "photo",
+    "gallery"
+  ],
+  "author": "Tahir Battal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thrbttl/photocaption/issues"
+  },
+  "homepage": "https://github.com/thrbttl/photocaption#readme"
+}
