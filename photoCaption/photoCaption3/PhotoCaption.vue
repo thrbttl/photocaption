@@ -131,10 +131,7 @@ h2 {
 }
 .caption button:hover {
   background-color: transparent;
-  border: none;
-  -webkit-box-shadow: -10px 14px 43px -13px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: -10px 14px 43px -13px rgba(0, 0, 0, 0.75);
-  box-shadow: -10px 14px 43px -13px rgba(0, 0, 0, 0.75);
+  color: #ffffff;
 }
 @media only screen and (min-width: 1180px) {
   .col:hover {
