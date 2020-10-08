@@ -41,4 +41,4 @@ NuxtJs photo caption gallery component
   },
   ````
  ### images
- static folder in create new folder name: 'image' > image in nev folder name: 'photoCaption' > photoCaption in your image.
+ static folder in create new folder name: 'image' > image in new folder name: 'photoCaption' > photoCaption in your image.
