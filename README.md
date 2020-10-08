@@ -24,11 +24,6 @@ NuxtJs photo caption gallery component
           subTitle2: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
           subTitle3: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         },
-        image: {
-          img1: "img1", // only image name 
-          img2: "img2", // only image name 
-          img3: "img3", // only image name 
-        },
         path: {
           path1: "js", 
           path2: "vue",
