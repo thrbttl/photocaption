@@ -13,7 +13,7 @@
           }}</router-link>
         </div>
         <img
-          :src="'_nuxt/static/image/' + photoCaption.image.img1 + '.png'"
+          src="../../../static/image/img1.png"
           :alt="this.photoCaption.text.title1"
         />
       </div>
@@ -29,7 +29,7 @@
           }}</router-link>
         </div>
         <img
-          :src="'_nuxt/static/image/' + photoCaption.image.img2 + '.png'"
+          src="../../../static/image/img2.png"
           :alt="this.photoCaption.text.title2"
         />
       </div>
@@ -45,7 +45,7 @@
           }}</router-link>
         </div>
         <img
-          :src="'_nuxt/static/image/' + photoCaption.image.img3 + '.png'"
+          src="../../../static/image/img3.png"
           :alt="this.photoCaption.text.title3"
         />
       </div>
